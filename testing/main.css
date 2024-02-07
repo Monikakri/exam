@@ -1,0 +1,136 @@
+
+
+/* .outerbox{
+    border: 2px solid black;
+    height: 2000px;
+    width: 1500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+img{
+    height: 24px;
+    width: 24px;
+
+}
+ 
+
+
+.innerbox{
+    border: 2px solid black;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2000px;
+    width: 2000px;
+}
+.navi
+{
+    width: 70px;
+    height: 896.56;
+    background: #333333;
+
+    
+
+}
+
+.box1{
+    border: 2px solid red;
+    height: 1440;
+    width: 896.56;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.a1{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background: url("./headingphone.png");
+background-size: cover;
+}
+
+.a2{
+    height: 50px;
+    width: 100px;
+    top: 15.51;
+    left: 47.11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a4{
+    width: 493;
+    height: 144px;
+    top: 240.08px;
+    left: 80.61px;
+
+}
+
+.a5{
+    width: 231px;
+    height: 42px;
+    top: 602.7px;
+    left: 80.61px;
+
+}
+
+.box2{
+    border: 2px solid green;
+    height: 1440px;
+    width: 896.56;
+    top: 3416.77px;
+    background: #333333;
+
+
+
+}
+
+.f1{
+    height: 36px;
+    width: 127px;
+    top: 3501.23px;
+    left: 656.5px;
+    font-style: "Poppins";
+    font-weight: 400;
+    size: 20px;
+    line-height: 36px;
+    color: #A1A0A1;
+    
+
+}
+
+.line{
+
+}
+.f2{
+    height: 64px;
+    width: 809px;
+    top: 355.45px;
+    left: 315.5px;
+    font-style: "Poppins";
+    font-weight: 600;
+    size: 48px;
+    line-height: 64px;
+     color:  #FFFFFF;
+     color: #A1A0A1;
+
+    
+}
+
+.f3{
+
+    width: 150px;
+    height: 36px;
+    top: 3689.67;
+    left: 298.92px;
+    font: "Poppins";
+    font-weight: 400;
+    size: 18px;
+    line-height:36px ;
+}
+
+
